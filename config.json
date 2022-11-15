@@ -1,0 +1,53 @@
+{
+    "name": "Samuel Nunes",
+    "job": "Software Engineer",
+    "avatar": "https://github.com/samuelikz.png",
+    "playlists": {
+        "back-end": [
+            {
+                "title": "Node.js",
+                "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+                "thumb": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "ReactJS",
+                "url": "https://www.youtube.com/watch?v=9zUHg7xjIqQ",
+                "thumb": "https://i.ytimg.com/vi/9zUHg7xjIqQ/hqdefault.jpg"
+            },
+            {
+                "title": "VueJS",
+                "url": "https://www.youtube.com/watch?v=OrxmtDw4pVI",
+                "thumb": "https://i.ytimg.com/vi/OrxmtDw4pVI/hqdefault.jpg"
+            },
+            {
+                "title": "AngularJS",
+                "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ",
+                "thumb": "https://i.ytimg.com/vi/2OHbjep_WjQ/hqdefault.jpg"
+            }
+        ],
+        "mobile": [
+            {
+                "title": "React Native",
+                "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+                "thumb": "https://i.ytimg.com/vi/0-S5a0eXPoc/hqdefault.jpg"
+            },
+            {
+                "title": "Flutter",
+                "url": "https://www.youtube.com/watch?v=IYvD9oBCuJI",
+                "thumb": "https://i.ytimg.com/vi/IYvD9oBCuJI/hqdefault.jpg"
+            },
+            {
+                "title": "Ionic",
+                "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+                "thumb": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg"
+            },
+            {
+                "title": "Xamarin",
+                "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+                "thumb": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg"
+            }
+        ]
+    }
+}
