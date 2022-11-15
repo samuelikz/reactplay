@@ -25,6 +25,21 @@
                 "title": "AngularJS",
                 "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ",
                 "thumb": "https://i.ytimg.com/vi/2OHbjep_WjQ/hqdefault.jpg"
+            },
+            {
+                "title" : "Quasar Framework",
+                "url" : "https://www.youtube.com/watch?v=XFVXoC2wt1U",
+                "thumb" : "https://i.ytimg.com/vi/XFVXoC2wt1U/hqdefault.jpg"
+            },
+            {
+                "title" : "Ionic Framework",
+                "url" : "https://www.youtube.com/watch?v=0mYq5LrQN1s",
+                "thumb" : "https://i.ytimg.com/vi/0mYq5LrQN1s/hqdefault.jpg"
+            },
+            {
+                "title" : "NextJS",
+                "url" : "https://www.youtube.com/watch?v=q_ZoX98uopM",
+                "thumb" : "https://i.ytimg.com/vi/q_ZoX98uopM/hqdefault.jpg"
             }
         ],
         "mobile": [
