@@ -10,17 +10,24 @@ img{
 .user-info{
     display: flex;
     align-items: center;
-    margin-top: 50px;
     width: 100%;
     padding: 16px 32px;
     gap: 16px;
 }
 `;
 
+const StyledBanner = styled.div`
+    background-color: #c4c4c4;
+    background-image: url(${config.bg});
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 230px;
+`;
+
 export default function Header() {
 return (
     <StyledHeader>
-        {/*<img src="" alt="banner"/>*/}
+        <StyledBanner/>
         <section className='user-info'>
             <img src={config.avatar} alt="Foto de Perfil" />
             <div>
