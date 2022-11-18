@@ -9,6 +9,26 @@
                 "title": "Node.js",
                 "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
                 "thumb": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg"
+            },
+            {
+                "title": "Express",
+                "url": "https://www.youtube.com/watch?v=pKd0Rpw7O48",
+                "thumb": "https://i.ytimg.com/vi/pKd0Rpw7O48/hqdefault.jpg"
+            },
+            {
+                "title": "MongoDB",
+                "url": "https://www.youtube.com/watch?v=-56x56UppqQ",
+                "thumb": "https://i.ytimg.com/vi/-56x56UppqQ/hqdefault.jpg"
+            },
+            {
+                "title": "MySQL",
+                "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+                "thumb": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault.jpg"
+            },
+            {
+                "title": "PostgreSQL",
+                "url": "https://www.youtube.com/watch?v=l5VXbLNYu2U",
+                "thumb": "https://i.ytimg.com/vi/l5VXbLNYu2U/hqdefault.jpg"
             }
         ],
         "front-end": [
@@ -41,6 +61,11 @@
                 "title" : "NextJS",
                 "url" : "https://www.youtube.com/watch?v=q_ZoX98uopM",
                 "thumb" : "https://i.ytimg.com/vi/q_ZoX98uopM/hqdefault.jpg"
+            },
+            {
+                "title" : "NuxtJS",
+                "url" : "https://www.youtube.com/watch?v=l2y8oYqNV8I",
+                "thumb" : "https://i.ytimg.com/vi/l2y8oYqNV8I/hqdefault.jpg"
             }
         ],
         "mobile": [

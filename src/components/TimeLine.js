@@ -1,6 +1,4 @@
 import styled from "styled-components";
-import valorDoFiltro from "./Menu/components/Search";
-import config from '../../config.json';
 
 const StyledTimeline = styled.div`
   flex: 1;
@@ -29,16 +27,20 @@ const StyledTimeline = styled.div`
       
       width: calc(100vw - 16px * 4);
       display: grid;
+      height: 100%;
       grid-gap: 16px;
-      grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+      grid-template-columns: repeat(auto-fill,minmax(190px,1fr));
       grid-auto-flow: column;
       grid-auto-columns: minmax(200px,1fr);
       overflow-x: scroll;
       scroll-snap-type: x mandatory;
       a {
+        padding: 1px;
         scroll-snap-align: start;
+        border-radius: 12px;
+        overflow: hidden;
         span {
-          padding-top: 8px;
+          padding: 10px;
           display: block;
           padding-right: 24px;
           color: ${({ theme }) => theme.textColorBase || "#222222"};
